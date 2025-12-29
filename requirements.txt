@@ -1,0 +1,14 @@
+langchain
+langchain-openai
+langchain-community
+langchainhub
+openai
+python-dotenv
+elasticsearch
+unstructured
+sentence_transformers
+pdf2image
+pdfminer.six
+pillow_heif
+opencv-python
+unstructured[local-inference]
